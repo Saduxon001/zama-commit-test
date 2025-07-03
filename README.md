@@ -1,0 +1,2 @@
+# zama-commit-test
+Zama Bounty Program: Contribute to the FHE space and Zama's open source libraries and get rewarded 💰
